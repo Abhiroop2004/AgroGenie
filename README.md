@@ -2,9 +2,11 @@
 <h3>Files for Hackathon on Novel Applications for IoT using ML</h3>
 
 **Problem Statement:**
+
 Smart Agriculture using IoT for Crop Management: Creating predictive models for precision agriculture, optimizing crop yield and resource utilization using IoT sensors.
 
 **Solution Name:**
+
 AgroGenie
 
 **Team Members:**
