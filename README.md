@@ -1,10 +1,10 @@
 # TetraCuatro
 Files for Hackathon on Novel Applications for IoT using ML
-** Problem Statement: **
+**Problem Statement:**
 Smart Agriculture using IoT for Crop Management: Creating predictive models for precision agriculture, optimizing crop yield and resource utilization using IoT sensors.
-** Solution Name: **
+**Solution Name:**
 AgroGenie
-** Team Members: **
+**Team Members:**
 <ul>
 <li>Srijeeta Sen
 <li>Debayan Ghosh
